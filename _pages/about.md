@@ -27,6 +27,6 @@ My research spans sampling-based motion planning, humanoid motion planning, acti
 
 At ELPIS, I have worked on [Expansion-GRR](https://elpislab.org/projects/expansion-grr/), [ActivePusher](https://elpislab.org/projects/activepusher/), [KiTe](https://elpislab.org/projects/kite/), and [CoAd](https://elpislab.org/projects/coad/). I am currently working on demonstration-guided [humanoid motion planning](https://elpislab.org/projects/hmp/). My other works include a humanoid building-inspection system developed during my 2026 internship at [Siemens](https://www.siemens.com/en-us/), and [NurSim](https://ieeexplore.ieee.org/document/10342401), a simulation environment for robotic nursing assistants. For more details of my work and research experience, please refer to my [CV](/assets/pdf/Zhuoyun_Zhong_CV.pdf).
 
-Before joining WPI, I earned my B.S. in Automotive Engineering from [Jilin University](https://jilinuniversity.cn/). 
+Before joining WPI, I earned my B.S. in Automotive Engineering from [Jilin University](https://jilinuniversity.cn/).
 
 For questions or collaboration, please [contact me via email](mailto:zzhong3@wpi.edu).
